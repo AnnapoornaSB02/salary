@@ -11,6 +11,6 @@ else:
 bonus = salary * 0.10
 total_salary = salary + bonus
 print("\nScript Name:", script_name)
-print("Basic Salary : ₹", salary)
-print("Bonus (10%)  : ₹", bonus)
-print("Total Salary : ₹", total_salary)
+print("Basic Salary : ", salary)
+print("Bonus (10%)  : ", bonus)
+print("Total Salary : ", total_salary)
